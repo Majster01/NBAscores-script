@@ -1,0 +1,1 @@
+{"5225": "Knicks 104 (1) 107 Cavaliers", "5226": "Wizards 112 (2) 121 Pistons", "5227": "Hornets 90 (3) 99 Pacers", "5228": "Nets 125 (4) 127 Raptors", "5229": "Bucks 112 (5) 99 Bulls", "5230": "Mavericks 104 (6) 120 Rockets", "5231": "Clippers 120 (7) 130 Timberwolves", "5232": "Blazers 111 (8) 120 Thunder", "5233": "Heat 87 (9) 103 Nuggets"}
